@@ -22,7 +22,7 @@
 ![Metrics](https://metrics.lecoq.io/saizzou?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Germany%2FBerlin)
 
 </div>
-  
+  <h2> INFO: This is my Development Project Page on Github! </h2>
   <h3>I am a Developer, Network Administrator and a Certificated Linux Administrator. You can define me as a IT Nerd. Sharing my Projects and Mentoring people who are new to the Cyber World is what I do and love.</h3>
   <br>
 <h2> Skills/Things I mostly use: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -53,6 +53,8 @@
 - 🤔 I’m looking for help to build a Place for every IT Lover. (Turkish/English/German) <br>
 - 💬 Ask me about Python, Linux, BashScript, Open Source <br>
 - 📫 How to reach me: <a href= https://youtube.com/c/koddunyam>Youtube</a> / <a href= https://discord.gg/FUt8xFGjWP> Discord</a>   <br>
+
+Wanna see my other Projects? See my Personal GitHub Repository : <a href= https://github.com/saizzou/>Personal Github</a>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
